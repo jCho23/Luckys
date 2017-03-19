@@ -1,14 +1,14 @@
 # Luckys
 Automation Test Scripts for Lucky's
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
